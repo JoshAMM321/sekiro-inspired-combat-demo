@@ -1,0 +1,24 @@
+# UE5 Sekiro Inspired Combat Demo
+
+A short Unreal Engine 5 combat prototype built to my gameplay programming skills.
+
+## Current Features
+-Parry System (COMPLETED)
+-Posture System (COMPLETED)
+-Combat Animations (IN PROGRESS)
+-Enemy AI (Soon to be worked on)
+-Hit Reactions (Soon to be worked on)
+-Lock-on system (Soon to be worked on)
+-UI (Soon to be worked on)
+
+## Goals
+My goal is to somewhat recreate the feeling of precise sword combat while learning Unreal Engine 5, Blueprints, and C++.
+
+## Built With
+-Unreal Engine 5
+-Blueprints
+-C++
+
+# Progress
+This project is actively being developed.
+
