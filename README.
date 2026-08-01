@@ -8,7 +8,7 @@ A short Unreal Engine 5 combat prototype built to my gameplay programming skills
 -Combat Animations (IN PROGRESS)
 -Enemy AI (Soon to be worked on)
 -Hit Reactions (Soon to be worked on)
--Lock-on system (Soon to be worked on)
+-Lock-on system (COMPLETED)
 -UI (Soon to be worked on)
 
 ## Goals
@@ -22,3 +22,5 @@ My goal is to somewhat recreate the feeling of precise sword combat while learni
 # Progress
 This project is actively being developed.
 
+7/30 : Finished the Parry and Posture System
+7/31 : Added an idle animation and did finished the lock on system 
