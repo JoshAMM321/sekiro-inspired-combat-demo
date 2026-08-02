@@ -12,7 +12,7 @@ A short Unreal Engine 5 combat prototype built to my gameplay programming skills
 -UI (Soon to be worked on)
 
 ## Goals
-My goal is to somewhat recreate the feeling of precise sword combat while learning Unreal Engine 5, Blueprints, and C++.
+My goal is to somewhat recreate the feeling of precise combat while learning Unreal Engine 5, Blueprints, and C++.
 
 ## Built With
 -Unreal Engine 5
@@ -24,3 +24,4 @@ This project is actively being developed.
 
 7/30 : Finished the Parry and Posture System
 7/31 : Added an idle animation and did finished the lock on system 
+8/2  : Added a posture bar that appears when you lock on to a target and disappears when you lock off a target
